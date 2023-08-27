@@ -4,7 +4,7 @@ import homeLogo from "../../Assets/photo.jpg";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
-import NavLink from "react-router-dom";
+import { NavLink } from 'react-router-dom';
 import Button from "react-bootstrap/Button";
 
 function Home() {
