@@ -13,10 +13,10 @@ function AboutCard() {
             <br /> 
           </p> 
           <p className="home-about-body">I am currently pursuing a <span className="purple">graduate degree </span> in Software Engineering at the University of North Carolina at Charlotte. 
-          Before this, I worked at <span className="purple">Syscloud </span> as a Software Development Engineer, where I not only gained significant practical experience but also had the 
+          Before this, I worked at <span className="purple">Syscloud </span> as a Software Engineer, where gained significant practical experience and also had the 
           opportunity to interact with remarkable colleagues, learning from their diverse experiences and valuable feedback.`</p>
           <br/>
-          <p className="home-about-body">My experience has been shaped through numerous hands-on projects and by leveraging the insights and expertise of others in the field.`</p>
+          <p className="home-about-body">My experience has been shaped through numerous hands-on projects and by leveraging insights and expertise of others in the software field.`</p>
           <br/>
           
           
