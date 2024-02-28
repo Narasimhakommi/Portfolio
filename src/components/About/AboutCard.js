@@ -12,11 +12,15 @@ function AboutCard() {
             from <span className="purple"> Charlotte, USA.</span>
             <br /> 
           </p> 
-          <p className="home-about-body">I am currently pursuing a <span className="purple">graduate degree </span> in Software Engineering at the University of North Carolina at Charlotte. 
-          Before this, I worked at <span className="purple">Syscloud </span> as a Software Engineer, where gained significant practical experience and also had the 
-          opportunity to interact with remarkable colleagues, learning from their diverse experiences and valuable feedback.`</p>
-          <br/>
-          <p className="home-about-body">My experience has been shaped through numerous hands-on projects and by leveraging insights and expertise of others in the software field.`</p>
+          <p className="home-about-body">
+  I am currently advancing my academic journey with a <span className="purple">graduate degree in Computer Science</span> at the University of North Carolina at Charlotte. 
+  My professional experience includes roles at <span className="purple">JPMC (as a Software Engineer Intern)</span>, <span className="purple">Syscloud</span>, and <span className="purple">Neebal Technologies</span> as a Software Engineer. These positions have provided me with significant practical experience and the chance to work alongside remarkable colleagues. Their diverse experiences and valuable feedback have been instrumental in my growth.
+</p>
+<br/>
+<p className="home-about-body">
+  My expertise in the field has been continually enriched by engaging in numerous hands-on projects and leveraging the insights and expertise of others in the software engineering field. This blend of academic and practical experiences has been pivotal in shaping my approach to solving complex problems and contributing effectively to the field.
+</p>
+
           <br/>
           
           
